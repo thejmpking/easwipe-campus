@@ -1,0 +1,8 @@
+{
+  "name": "eaSwipe Campus",
+  "description": "A comprehensive Smart ID, Attendance, and Shift Management System for educational institutions featuring AI-driven insights, responsive dashboard, and real-time attendance tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}

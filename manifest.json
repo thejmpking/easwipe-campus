@@ -1,0 +1,23 @@
+
+{
+  "short_name": "eaSwipe",
+  "name": "eaSwipe Campus Smart ID",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/color/192/000000/swipe-card.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://img.icons8.com/color/512/000000/swipe-card.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "background_color": "#f8fafc",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#4f46e5",
+  "description": "Smart ID and Attendance System for Modern Campuses"
+}
